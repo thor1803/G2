@@ -1,1 +1,23 @@
-[julie, 1, 2,3 ,3]
+title	"The Basics - Networking"
+description	"Your app fetched this from a remote endpoint!"
+movies	
+0	
+id	"1"
+title	"Star Wars"
+releaseYear	"197"
+1	
+id	"2"
+title	"Back to the Future"
+releaseYear	"185"
+2	
+id	"3"
+title	"The Matrix"
+releaseYear	"199"
+3	
+id	"4"
+title	"Inception"
+releaseYear	"2010"
+4	
+id	"5"
+title	"Interstellar"
+releaseYear	"2014"
